@@ -1,10 +1,10 @@
 ## (Unofficial) Working Group on Unsafe Rust
 This organization focuses on unsafe Rust, with an emphasis on the proper usage of unsafe code to ensure memory safety in real-world Rust system development.
 
-## Vision
+### Vision
 To mitigate the risks associated with unsafe code usage in the Rust ecosystem.
 
-## Rationale
+### Rationale
 Documentation for unsafe code is an essential companion to the code itself. 
 It serves not only as a protocol between library providers and users, but also as a bridge toward formally verifying code soundness. 
 Therefore, establishing systematic and reliable ways to document and verify unsafe code is crucial for improving the safety of the Rust ecosystem.
