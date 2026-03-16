@@ -1,4 +1,4 @@
-## Working Group on Unsafe Rust
+## (Unofficial) Working Group on Unsafe Rust
 This organization focuses on unsafe Rust, with an emphasis on the proper usage of unsafe code to ensure memory safety in real-world Rust system development.
 
 ## Vision
